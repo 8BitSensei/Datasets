@@ -423,6 +423,56 @@
       "bibliography": [
         "MONUMENT NO. 1410831, https://www.pastscape.org.uk/hob.aspx?hob_id=1410831&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber="
       ]
+    },
+    {
+      "index": 32,
+      "site": "Gill Mill",
+      "start": "unkown",
+      "end": "unknown",
+      "location": "England, Oxfordshire, Ducklington" ,
+      "description": "A possible temple site, where sample trenching in 1989 uncovered numerous 3rd to 4th century coins and stone relief of a Genius, broken in antiquity. The Genius reportedly stood in an aedicula. A relief of a rider-god was re-used and set into the mill in 1853, judging by the inscription.",
+      "bibliography": [
+        "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995"
+      ]
+    },
+    {
+      "index": 33,
+      "site": "Lees Rest",
+      "start": "unkown",
+      "end": "unknown",
+      "location": "England, Oxfordshire, Charlbury" ,
+      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance.",
+      "bibliography": [
+        "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995"
+      ]
+    },
+    {
+      "index": 34,
+      "site": "Lees Rest",
+      "start": "unkown",
+      "end": "unknown",
+      "location": "England, Oxfordshire, Charlbury" ,
+      "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance.",
+      "bibliography": [
+        "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995"
+      ]
+    },
+    {
+      "index": 35,
+      "site": "Woodeaton Temple",
+      "start": "early 1st CE",
+      "end": "unknown",
+      "location": "England, Oxfordshire" ,
+      "description": "A dquare Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
+      "bibliography": [
+        "A. Smith, ‘The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods.’, in Ritual Landscapes of Roman South-East Britain, D. Rudling, Ed. 2008",
+        "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995",
+        "J. Kirk, 1949",
+        "J. Milne, 1933",
+        "J. Milne, 1931",
+        "M. Taylor, 1917",
+        "Husey, 1841"
+      ]
     }
   ],
   "dates":{
