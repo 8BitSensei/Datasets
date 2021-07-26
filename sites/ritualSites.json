@@ -6,8 +6,8 @@
     {
       "index": 0,
       "site": "Aquae Sulis",
-      "start": "-50",
-      "end": "400",
+      "start": "late 1st BCE",
+      "end": "early 5th CE",
       "location": " England, Somerset, Bath, Abbey Churchyard",
       "description": "An early Roman period temple set around a natural spring with an adjoining bath complex. There is some evidence to suggest that the spring had some ritual significance prior to the Roman structure, it has also been shown that the ritual use of the site continued strongly into the 4th Century with continued deposition of coins, defixiones, and modifications to the temple itself. Aquae Sulis is unique in that it is one of the few sites we have a contempory reference to in Solinus, De Mirabilibus Mundi, Capitula XXIIII.",
       "bibliography": [
@@ -27,7 +27,7 @@
       "index": 1,
       "site": "Arthur's O'on",
       "start": "83",
-      "end": "400",
+      "end": "early 5th CE",
       "location": " Scotland, Stirlingshire, Stenhousemuir",
       "description": "A beehive like Roman structure throught possibly to be a shrine to victory built in the wake of Agrocola's campaigns in Scotland. Nothing now stands of the structure as it was demolished in 1743.",
       "bibliography": [
@@ -39,8 +39,8 @@
     {
       "index": 2,
       "site": "Ashwell",
-      "start": "43",
-      "end": "410",
+      "start": "mid 1st CE",
+      "end": "early 5th CE",
       "location": " England, Hetfordshire, Ashwell",
       "description": "",
       "bibliography": [
@@ -51,8 +51,8 @@
     {
       "index": 3,
       "site": "Benwell Roman Temple",
-      "start": "100",
-      "end": "600",
+      "start": "early 2nd CE",
+      "end": "early 7th CE",
       "location": " England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
       "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
       "bibliography": [
@@ -77,8 +77,8 @@
     {
       "index": 5,
       "site": "Brigstock",
-      "start": "25",
-      "end": "400",
+      "start": "early 1st CE",
+      "end": "early 5th CE",
       "location": " England, Northamptonshire, Brigstock",
       "description": "",
       "bibliography": [
@@ -103,8 +103,8 @@
     {
       "index": 7,
       "site": "Farley Heath Roman Temple",
-      "start": "400",
-      "end": "450",
+      "start": "unknown",
+      "end": "mid 5th CE",
       "location": " England, Surrey, Farley Heath",
       "description": "There is earlier use noted but of unkown date.",
       "bibliography": [
@@ -118,7 +118,7 @@
       "index": 8,
       "site": "Frilford Shrine",
       "start": "70",
-      "end": "499",
+      "end": "late 5th CE",
       "location": " England, Berkshire, Frilford",
       "description": "",
       "bibliography": [
@@ -128,8 +128,8 @@
     {
       "index": 9,
       "site": "Gosbeck's Farm",
-      "start": "150",
-      "end": "399",
+      "start": "mid 2nd CE",
+      "end": "late 5th CE",
       "location": " England, Essex, Birch",
       "description": "",
       "bibliography": []
@@ -137,8 +137,8 @@
     {
       "index": 10,
       "site": "Great Chesterford",
-      "start": "0",
-      "end": "400",
+      "start": "early 1st CE",
+      "end": "early 5th CE",
       "location": " England, Essex, Uttlesford",
       "description": "A substantial Romano-Celtic temple set within an extensive temenos, 1km east of the Roman town. The site shows some evidence of pre-invasion use in the early 1st century and shows continued ritual activity up to the the late 4th or early 5th century.",
       "bibliography": [
@@ -152,8 +152,8 @@
     {
       "index": 11,
       "site": "Hayling Island",
-      "start": "-50",
-      "end": "70",
+      "start": "mid 1st BCE",
+      "end": "late 1st CE",
       "location": " England, Hampshire, Hayling Island",
       "description": "",
       "bibliography": [
@@ -189,8 +189,8 @@
     {
       "index": 12,
       "site": "Hockwold Temple",
-      "start": "100",
-      "end": "400",
+      "start": "early 2nd CE",
+      "end": "early 5th CE",
       "location": " England, Norfolk, Hockwold cum Wilton",
       "description": "",
       "bibliography": []
@@ -198,8 +198,8 @@
     {
       "index": 13,
       "site": "Jordan Hill",
-      "start": "300",
-      "end": "399",
+      "start": "early 4th CE",
+      "end": "late 4th CE",
       "location": " England, Dorset, Weymouth, Bowleaze Coveway",
       "description": "",
       "bibliography": []
@@ -207,8 +207,8 @@
     {
       "index": 14,
       "site": "Lamyatt",
-      "start": "200",
-      "end": "410",
+      "start": "early 3rd CE",
+      "end": "early 5th CE",
       "location": " England, Somerset, Mendip, Lamyatt",
       "description": "",
       "bibliography": []
@@ -238,8 +238,8 @@
     {
       "index": 17,
       "site": "Maiden Castle",
-      "start": "350",
-      "end": "499",
+      "start": "mid 4th CE",
+      "end": "late 5th CE",
       "location": " England, Dorset, Dorchester, Maiden Castle Road",
       "description": "",
       "bibliography": [
@@ -250,7 +250,7 @@
       "index": 18,
       "site": "Nettleton Shrub",
       "start": "69",
-      "end": "399",
+      "end": "late 4th CE",
       "location": " England, Wiltshire, Nettleton",
       "description": "",
       "bibliography": [
@@ -260,8 +260,8 @@
     {
       "index": 19,
       "site": "Old Harlow",
-      "start": "250",
-      "end": "399",
+      "start": "mid 3rd CE",
+      "end": "late 4th CE",
       "location": " England, Essex, Old Harlow",
       "description": "",
       "bibliography": [
@@ -271,8 +271,8 @@
     {
       "index": 20,
       "site": "Cadbury Castle / Henley Wood",
-      "start": "200",
-      "end": "300",
+      "start": "early 3rd CE",
+      "end": "early 4th CE",
       "location": " England, Somerset",
       "description": "",
       "bibliography": []
@@ -280,8 +280,8 @@
     {
       "index": 21,
       "site": "Uley Shrine",
-      "start": "-199",
-      "end": "799",
+      "start": "late 2nd BCE",
+      "end": "late 8th CE",
       "location": " England, Gloucestershire, Uley",
       "description": "",
       "bibliography": [
@@ -293,8 +293,8 @@
     {
       "index": 22,
       "site": "Wanborough Temple",
-      "start": "50",
-      "end": "399",
+      "start": "mid 1st CE",
+      "end": "late 4th CE",
       "location": " England, Surrey, Guildford, Wanborough",
       "description": "A ritual site showing activity from the mid 1st to the late 4th CE. Earliest phases show little evidence for structure, but a later circular temple was built before it collapsed and a Romano-British temple was constructed just to the South. It is notable for the priestly regalia found associated with the site.",
       "bibliography": [
@@ -315,8 +315,8 @@
     {
       "index": 23,
       "site": "Weycock Hill",
-      "start": "300",
-      "end": "499",
+      "start": "early 4th CE",
+      "end": "late 5th CE",
       "location": " England, Berkshire, Reading",
       "description": "",
       "bibliography": []
@@ -324,8 +324,8 @@
     {
       "index": 24,
       "site": "Great Dunmow",
-      "start": "350",
-      "end": "425",
+      "start": "mid 4th CE",
+      "end": "early 5th CE",
       "location": "England, Essex",
       "description": "An unusually late constructed shrine of timber and turf. The shrine had a period of reconstruction in 390 - 400 CE involving the laying of a flint and tile platform.",
       "bibliography": [
@@ -347,8 +347,8 @@
     {
       "index": 26,
       "site": "Ivy Chimneys",
-      "start": "-100",
-      "end": "425",
+      "start": "early 2nd BCE",
+      "end": "early 5th CE",
       "location": "England, Essex, Witham, Ivy Chimneys",
       "description": "The site is suggested to have activity beginning in the Late Iron Age with a timber-framed wattle and daub temple built in the later 3rd Century. There are several periods of activity and reconstruction lasting into the early 5th Century. Turner suggested that one of these phases was a church.",
       "bibliography": [
@@ -484,6 +484,15 @@
     "early 5th CE": "400",
     "mid 5th CE": "425",
     "late 5th CE": "475",
-    "late 6th CE": "575"
+    "early 6th CE": "500",
+    "mid 6th CE": "525",
+    "late 6th CE": "575",
+    "early 7th CE": "600",
+    "mid 7th CE": "625",
+    "late 7th CE": "675",
+    "early 8th CE": "700",
+    "mid 8th CE": "725",
+    "late 8th CE": "775",
+    "early 9th CE": "800"
   }
 }
