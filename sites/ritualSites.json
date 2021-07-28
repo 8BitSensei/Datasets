@@ -452,7 +452,7 @@
       "start": "early 1st CE",
       "end": "unknown",
       "location": "England, Oxfordshire" ,
-      "description": "A dquare Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
+      "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
       "bibliography": [
         "A. Smith, ‘The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods.’, in Ritual Landscapes of Roman South-East Britain, D. Rudling, Ed. 2008",
         "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995",
@@ -461,6 +461,23 @@
         "J. Milne, 1931",
         "M. Taylor, 1917",
         "Husey, 1841"
+      ]
+    },
+    {
+      "index": 35,
+      "site": "Bourton Temple",
+      "start": "265",
+      "end": "425",
+      "location": "England, Buckinghamshire, Thornborough, Bourton Grounds" ,
+      "description": "A Romano-Celtic temple found on Bourton Grounds, Thornborough, besides the 14th century bridge on Padbury Brook. Charles Green identifies the construction of the temple around 265 CE an it's end of use early in the second date of the 5th century at the latest. Excavations in the 70s identified a cremation ground in use for the second half of the 1st century, but this may not show continuous activity with the temple.",
+      "bibliography": [
+        "‘Monument record 0078400000 - BOURTON GROUNDS’, 2020. https://heritageportal.buckinghamshire.gov.uk/Monument/MBC2497",
+        "N. Wilson, ‘The Thornborough Romano-British Temple: a Reappraisal’, 2017.",
+        "M. Green, ‘ISIS AT THORNBOROUGH’, 1983.",
+        "Green, ‘The Religions of Civilian Roman Britain’, 1976.",
+        "A. Johnson, ‘Excavations at Bourton Grounds, Thornborough 1972-3’, 1975.",
+        "Lewis, ‘Temples in Roman Britain’, 1966.",
+        "C. Green, ‘A ROMANO-CELTIC TEMPLE AT BOURTON GROUNDS, BUCKINGHAM’, 1965."
       ]
     }
   ],
