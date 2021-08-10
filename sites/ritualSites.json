@@ -493,6 +493,18 @@
         "‘A gazetteer of Roman villas in Britain’, vol. 1, p. 91, 1993.",
         "‘Roman Britain in 1937’, vol. 28, p. 185, 1938."
       ]
+    },
+    {
+      "index": 37,
+      "site": "Watling Temple",
+      "start": "unknown",
+      "end": "unknown",
+      "location": "England, Kent, Newington" ,
+      "description": "A Romano-British temple discovered back in 2018 as part of a new housing development in Newington, North Kent, is about to go on display. The temple, informally dubbed 'Warling Temple', which would have been situated near to the Roman period Watling Street which runs through the modern town of Newington, has been carefully moved by a conservation group to a nearby location and recreated, to go on permanent public display.",
+      "bibliography": [
+        "E. Stephenson, ‘Remains of 2,000-year-old Roman temple discovered on Newington building site near Sittingbourne set to be unveiled’, 2021. https://www.kentonline.co.uk/sittingbourne/news/remains-of-2-000-year-old-roman-temple-to-be-unveiled-251866/",
+        "C. Holmwood, ‘Roman remains discovered near A2 in Newington, near Sittingbourne’, 2019. https://www.kentonline.co.uk/sittingbourne/news/forgotten-roman-village-found-on-building-site-205217/"
+      ]
     }
   ],
   "dates":{
