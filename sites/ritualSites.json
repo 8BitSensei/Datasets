@@ -558,6 +558,7 @@
   "dates": {
     "unknown": "",
     "pre 1st BCE": "-100",
+    "ealry 1st BCE": "-99",
     "mid 1st BCE": "-75",
     "late 1st BCE": "-25",
     "early 1st CE": "0",
