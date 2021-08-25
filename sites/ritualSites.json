@@ -504,6 +504,45 @@
         "E. Stephenson, ‘Remains of 2,000-year-old Roman temple discovered on Newington building site near Sittingbourne set to be unveiled’, 2021. https://www.kentonline.co.uk/sittingbourne/news/remains-of-2-000-year-old-roman-temple-to-be-unveiled-251866/",
         "C. Holmwood, ‘Roman remains discovered near A2 in Newington, near Sittingbourne’, 2019. https://www.kentonline.co.uk/sittingbourne/news/forgotten-roman-village-found-on-building-site-205217/"
       ]
+    },
+    {
+      "index": 38,
+      "site": "Kirkmadrine",
+      "location": "Scotland, Dumfries & Galloway, Stranraer, Sandhead",
+      "start": "early 6th CE",
+      "end": "unknown",
+      "bibliography": [
+        "CSCS, ‘“A magnum monasterium in SW Scotland? New work on Kirkmadrine and its stones”’, Mar. 14, 2013. http://cscs.academicblogs.co.uk/a-magnum-monasterium-in-sw-scotland-new-work-on-kirkmadrine-and-its-stones/",
+        "F. Edmonds, ‘Whithorn’s renown in the early medieval period: Whithorn, Futerna and magnum monasterium’, Friends of the Whithorn Trust, Stranraer, 2009."
+      ],
+      "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: 'Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious'."
+    },
+    {
+      "index": 39,
+      "site": "Whithorn",
+      "bibliography": [
+        "F. Edmonds, ‘Whithorn’s renown in the early medieval period: Whithorn, Futerna and magnum monasterium’, Friends of the Whithorn Trust, Stranraer, 2009."
+      ],
+      "location": "Scotland, Dumfries & Galloway",
+      "start": "397",
+      "end": "post 6th CE",
+      "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa ('The white hut' in Latin)."
+    },
+    {
+      "index": 40,
+      "site": "Ardstraw",
+      "location": "Ireland, County Tyrone, Strabane",
+      "start": "late 6th CE",
+      "end": "post 6th CE",
+      "description": "An early Irish ecclesiastical site, purportedly founded by St.Éogan in the late 6th CE. According to his Vita Éogan studied at Clones and Whithorn, before founding Ardstraw in his later life."
+    },
+    {
+      "index": 41,
+      "site": "Clones Abbey",
+      "location": "Ireland, County Monaghan",
+      "start": "early 6th CE",
+      "end": "post 6th CE",
+      "description": "An early 6th CE monastic site in Ireland, county Monaghan. Purportedly founded by St.Tigernach mac Coirpri who is reported to have died of the plague in the mid 6th CE. The site was dedicated to the Apostles Peter and Paul."
     }
   ],
   "dates": {
