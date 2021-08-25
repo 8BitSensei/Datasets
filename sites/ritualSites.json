@@ -1,7 +1,6 @@
 {
   "description": "This is a file containing data on ritual sites of Britain & Ireland, currently holding dummy data.",
   "name": "Ritual Sites of Britain & Ireland",
-
   "sites": [
     {
       "index": 0,
@@ -52,7 +51,7 @@
       "index": 3,
       "site": "Benwell Roman Temple",
       "start": "early 2nd CE",
-      "end": "early 7th CE",
+      "end": "post 6th CE",
       "location": " England, Tyne and Wear, Newcastle-upon-Tyne, Broomridge Avenue",
       "description": "We know the temple was destroyed sometime in the 2nd Century. The latest coin issue was dated to 161 - 180 and there is evidence of burnt roof tiles and timbers, however, there is evidence of continued use as a burial ground. If the suspected burial just to the west is to be included we can push it's use to the 6th or 7th Century.",
       "bibliography": [
@@ -280,8 +279,8 @@
     {
       "index": 21,
       "site": "Uley Shrine",
-      "start": "late 2nd BCE",
-      "end": "late 8th CE",
+      "start": "pre 1st BCE",
+      "end": "post 6th CE",
       "location": " England, Gloucestershire, Uley",
       "description": "",
       "bibliography": [
@@ -363,7 +362,7 @@
       "site": "Pagans Hill",
       "start": "275",
       "end": "early 5th CE",
-      "location": "Pagans Hill, England, Somerset, Pagans Hill" ,
+      "location": "Pagans Hill, England, Somerset, Pagans Hill",
       "description": "A double octagonal temple built in the late 3rd Century CE, the original building, and a second collapsed before the final structure was built in the late 4th century CE. The last building collapsed some time in the 5th century CE. There is pre-roman use noted and post-roman material from the 7th century was found in the adjacent well.",
       "bibliography": [
         "Rahtz, P.; Harris, L.G. (1958). 'The temple well and other buildings at Pagans Hill, Chew Stoke, North Somersetshire'. Proceedings of the Somersetshire Archaeological and Natural History Society: 25–51",
@@ -381,7 +380,7 @@
       "site": "Ratham Mill",
       "start": "early 1st CE",
       "end": "early 4th CE",
-      "location": "Ratham Mill, England, Sussex" ,
+      "location": "Ratham Mill, England, Sussex",
       "description": "A probable Romano-British temple of uncertain date, the site has been known since the 50s when it was observed as a cropmark (King, Soffe, 1983). The site consists of two concentric masonry foundations (17.5m x 16m) and (8.5, x 7.5m) enclosing a slightly off-centre rectangle which has been interpreted as a possible foundation of a plinth, altar, statue, or else a pool or well. The entrance is more than likely on the east side, though this is not clear from aerial photography.\n\nThe site (SU 8090 0644) overlooks a nearby stream at the bottom of a gentle slope to the east. Just outside the temple between itself and the river is a large circular structure with a large central depression 21m in diameter and an encircling ditch of 31m in diameter. Rudling postulates an earlier shrine or location for depositions.\n\nNo excavation has been carried out so the date can only be suggested from surface level finds. The earliest finds are Late iron age pottery and coins (Rudling, 2008). The bulk of pottery is late first and second centuries, but one sherd may be third or fourth century (King, Soffe, 1983).",
       "bibliography": [
         "D. Rudling, ‘Roman-Period Temples, Shrines and Religion in Sussex’, in Ritual Landscapes of Roman South-East Britain, D. Rudling, Ed. 2008",
@@ -396,7 +395,7 @@
       "site": "Richborough Castle",
       "start": "late 3rd CE",
       "end": "late 6th CE",
-      "location": "Richborough Castle, England, Kent, Richborough" ,
+      "location": "Richborough Castle, England, Kent, Richborough",
       "description": "Richborough Castle began as a temporary millitary camp for Plautius' invasion force in 43 AD, the only settlement prior to this was an Iron Agen farmstead that was abandoned around 100 BC. At the end of the first century AD timber structures were cleared away and the site became a more permanent civilian settlement with an associated port. In the late third century AD the site again became a millitary establishment, the central part of the town was leveled and the monument constructed to celebrate the conquest of Britain was converted into a signal station, this signal station was eventually leveled to construct a shore fort. Around this time, it is suggested that the two Roman-Celtic temples to the south were constructed. By the end of the fourth century the fort was no longer garrisoned by regular troops, though the fort continued to be used as a settlement into the fifth century where it is noted in the Notitia Dignitatum. Around this time the temples would have already collapsed but continued to be used as two deposits were found inserted into the wall, it is around this same time that the proposed church associated with the baptismal font was constructed. It is unsure when these structures stopped being used but the fort was abandoned during the later fifth and sixth centures.",
       "bibliography": [
         "T. Wilmott and S. Philip, ‘The Plan of the Saxon Shore Fort at Richborough’, _Britannia_, vol. 51, pp. 147–174, 2020.",
@@ -418,7 +417,7 @@
       "site": "Sharnbrook",
       "start": "early 1st BCE",
       "end": "unknown",
-      "location": "England, Bedfordshire, Sharnbrook" ,
+      "location": "England, Bedfordshire, Sharnbrook",
       "description": "A possible Late Iron Age and Roman temple, interpreted entirely through aerial photogrophy of crop-markings. There appear to be too overlapping features, a circular enclosure and a square enclosure enclosing a smaller square. It's possible the circular enclosure is a Late Iron Age shrine and the square one a Romano-Celtic temple.",
       "bibliography": [
         "MONUMENT NO. 1410831, https://www.pastscape.org.uk/hob.aspx?hob_id=1410831&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber="
@@ -429,7 +428,7 @@
       "site": "Gill Mill",
       "start": "unknown",
       "end": "unknown",
-      "location": "England, Oxfordshire, Ducklington" ,
+      "location": "England, Oxfordshire, Ducklington",
       "description": "A possible temple site, where sample trenching in 1989 uncovered numerous 3rd to 4th century coins and stone relief of a Genius, broken in antiquity. The Genius reportedly stood in an aedicula. A relief of a rider-god was re-used and set into the mill in 1853, judging by the inscription.",
       "bibliography": [
         "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995"
@@ -440,7 +439,7 @@
       "site": "Lees Rest",
       "start": "unknown",
       "end": "unknown",
-      "location": "England, Oxfordshire, Charlbury" ,
+      "location": "England, Oxfordshire, Charlbury",
       "description": "A scheduled site first observed from aerial photography. The site is triple-ditched and forms a square enclosure with a probable South-East entrance.",
       "bibliography": [
         "J. Bagnall-Smith, 'Interim report on the votive material from Romano-Celtic temple sites in Oxfordshire', 1995"
@@ -451,7 +450,7 @@
       "site": "Woodeaton Temple",
       "start": "early 1st CE",
       "end": "unknown",
-      "location": "England, Oxfordshire" ,
+      "location": "England, Oxfordshire",
       "description": "A square Romano-Celtic type temple four-miles north east of Oxford and built on top of a hill. First refered to in 1841 by Hursey, who mentions traces of buildings at the site. Though the Saxon charter of Eaton (904 CE) may refer to the site as faga flora (coloured floor), referencing mosaics, but this not certain. Excavations in 1952 revealed a two-period temple, the earlier of which was dated to the 1st century CE, less is known about the second phase but it was probably constructed in the mid 2nd century CE. Iron Age occupation at the site has been shown but this is not neccesarily continuous and no structure is known.",
       "bibliography": [
         "A. Smith, ‘The Fate of Pagan Temples in Sount-East Britain during the late and post-Roman periods.’, in Ritual Landscapes of Roman South-East Britain, D. Rudling, Ed. 2008",
@@ -468,7 +467,7 @@
       "site": "Bourton Temple",
       "start": "265",
       "end": "425",
-      "location": "England, Buckinghamshire, Thornborough, Bourton Grounds" ,
+      "location": "England, Buckinghamshire, Thornborough, Bourton Grounds",
       "description": "A Romano-Celtic temple found on Bourton Grounds, Thornborough, besides the 14th century bridge on Padbury Brook. Charles Green identifies the construction of the temple around 265 CE an it's end of use early in the second date of the 5th century at the latest. Excavations in the 70s identified a cremation ground in use for the second half of the 1st century, but this may not show continuous activity with the temple.",
       "bibliography": [
         "‘Monument record 0078400000 - BOURTON GROUNDS’, 2020. https://heritageportal.buckinghamshire.gov.uk/Monument/MBC2497",
@@ -486,7 +485,7 @@
       "site": "Moneybury Hill Roman Site",
       "start": "late 1st CE",
       "end": "unknown",
-      "location": "England, Buckinghamshire, Aylesbury Vale, Pitstone" ,
+      "location": "England, Buckinghamshire, Aylesbury Vale, Pitstone",
       "description": "Site of a Roman building uncovered in the 1930s, a wall foundation, tiles and tesserae were uncovered with coins dated from Hadrian to Allectus. Interpreted as a possible villa or temple owing to the presence of a nearby villa and its prominent position.",
       "bibliography": [
         "‘MONUMENT NO. 346415’. https://www.pastscape.org.uk/hob.aspx?hob_id=346415&sort=2&type=TEMPLE&rational=a&class1=11&period=43|410|ROMAN|38|0&county=None&district=None&parish=None&place=&yearfrom=43&yearto=410&recordsperpage=60&source=text&rtype=&rnumber=)",
@@ -499,7 +498,7 @@
       "site": "Watling Temple",
       "start": "unknown",
       "end": "unknown",
-      "location": "England, Kent, Newington" ,
+      "location": "England, Kent, Newington",
       "description": "A Romano-British temple discovered back in 2018 as part of a new housing development in Newington, North Kent, is about to go on display. The temple, informally dubbed 'Warling Temple', which would have been situated near to the Roman period Watling Street which runs through the modern town of Newington, has been carefully moved by a conservation group to a nearby location and recreated, to go on permanent public display.",
       "bibliography": [
         "E. Stephenson, ‘Remains of 2,000-year-old Roman temple discovered on Newington building site near Sittingbourne set to be unveiled’, 2021. https://www.kentonline.co.uk/sittingbourne/news/remains-of-2-000-year-old-roman-temple-to-be-unveiled-251866/",
@@ -507,12 +506,9 @@
       ]
     }
   ],
-  "dates":{
+  "dates": {
     "unknown": "",
-    "early 2nd BCE": "-199",
-    "mid 2nd BCE": "-175",
-    "late 2nd BCE": "-125",
-    "early 1st BCE": "-99",
+    "pre 1st BCE": "-100",
     "mid 1st BCE": "-75",
     "late 1st BCE": "-25",
     "early 1st CE": "0",
@@ -533,12 +529,6 @@
     "early 6th CE": "500",
     "mid 6th CE": "525",
     "late 6th CE": "575",
-    "early 7th CE": "600",
-    "mid 7th CE": "625",
-    "late 7th CE": "675",
-    "early 8th CE": "700",
-    "mid 8th CE": "725",
-    "late 8th CE": "775",
-    "early 9th CE": "800"
+    "post 6th CE": "600"
   }
 }
