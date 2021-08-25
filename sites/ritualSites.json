@@ -506,6 +506,7 @@
       ]
     },
     {
+      "index": 38,
       "site": "Kirkmadrine",
       "location": "Scotland, Dumfries & Galloway, Stranraer, Sandhead",
       "start": "early 6th CE",
@@ -517,6 +518,7 @@
       "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: 'Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious'."
     },
     {
+      "index": 39,
       "site": "Whithorn",
       "bibliography": [
         "F. Edmonds, ‘Whithorn’s renown in the early medieval period: Whithorn, Futerna and magnum monasterium’, Friends of the Whithorn Trust, Stranraer, 2009."
@@ -527,6 +529,7 @@
       "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa ('The white hut' in Latin)."
     },
     {
+      "index": 40,
       "site": "Ardstraw",
       "location": "Ireland, County Tyrone, Strabane",
       "start": "late 6th CE",
@@ -534,6 +537,7 @@
       "description": "An early Irish ecclesiastical site, purportedly founded by St.Éogan in the late 6th CE. According to his Vita Éogan studied at Clones and Whithorn, before founding Ardstraw in his later life."
     },
     {
+      "index": 41,
       "site": "Clones Abbey",
       "location": "Ireland, County Monaghan",
       "start": "early 6th CE",
