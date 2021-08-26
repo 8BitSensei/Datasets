@@ -514,7 +514,8 @@
         "CSCS, ‘“A magnum monasterium in SW Scotland? New work on Kirkmadrine and its stones”’, Mar. 14, 2013. http://cscs.academicblogs.co.uk/a-magnum-monasterium-in-sw-scotland-new-work-on-kirkmadrine-and-its-stones/",
         "F. Edmonds, ‘Whithorn’s renown in the early medieval period: Whithorn, Futerna and magnum monasterium’, Friends of the Whithorn Trust, Stranraer, 2009."
       ],
-      "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: 'Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious'."
+      "description": "An early Scottish ecclesiastical site. Contains Latin stone inscriptions from the 6th CE, one of which reads: 'Here lie the holy and outstanding sacredotes (priests/bishops), that is to say Viventius and Movorious'.",
+      "index": 38
     },
     {
       "site": "Whithorn",
@@ -524,35 +525,40 @@
       "location": "Scotland, Dumfries & Galloway",
       "start": "397",
       "end": "post 6th CE",
-      "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa ('The white hut' in Latin)."
+      "description": "An early if not the earliest ecclesiastical site in Scotland. The site was purportedly founded by St.Ninian in 397 CE when he constructed a church known as the Candida Casa ('The white hut' in Latin).",
+      "index": 39
     },
     {
       "site": "Ardstraw",
       "location": "Ireland, County Tyrone, Strabane",
       "start": "late 6th CE",
       "end": "post 6th CE",
-      "description": "An early Irish ecclesiastical site, purportedly founded by St.Éogan in the late 6th CE. According to his Vita Éogan studied at Clones and Whithorn, before founding Ardstraw in his later life."
+      "description": "An early Irish ecclesiastical site, purportedly founded by St.Éogan in the late 6th CE. According to his Vita Éogan studied at Clones and Whithorn, before founding Ardstraw in his later life.",
+      "index": 40
     },
     {
       "site": "Clones Abbey",
       "location": "Ireland, County Monaghan",
       "start": "early 6th CE",
       "end": "post 6th CE",
-      "description": "An early 6th CE monastic site in Ireland, county Monaghan. Purportedly founded by St.Tigernach mac Coirpri who is reported to have died of the plague in the mid 6th CE. The site was dedicated to the Apostles Peter and Paul."
+      "description": "An early 6th CE monastic site in Ireland, county Monaghan. Purportedly founded by St.Tigernach mac Coirpri who is reported to have died of the plague in the mid 6th CE. The site was dedicated to the Apostles Peter and Paul.",
+      "index": 41
     },
     {
       "site": "Clonmacnoise",
       "location": "Ireland, County Offaly, Athlone",
       "start": "544",
       "end": "post 6th CE",
-      "description": "A monastic site founded by St.Ciarán and his companions in 544."
+      "description": "A monastic site founded by St.Ciarán and his companions in 544.",
+      "index": 42
     },
     {
       "description": "A monastic settlement founded by St.Comgall where he died in the late 6th CE or early 7th CE.",
       "site": "Comgall's Monastery",
       "location": "Ireland, County Down, Bangor, Belfast Lough, opposite Carrickfergus",
       "start": "mid 6th CE",
-      "end": "post 6th CE"
+      "end": "post 6th CE",
+      "index": 43
     }
   ],
   "dates": {
